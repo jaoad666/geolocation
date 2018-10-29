@@ -9,8 +9,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="964" />
+    <option name="x" value="275" />
     <option name="y" value="44" />
     <option name="width" value="959" />
     <option name="height" value="476" />
@@ -137,7 +140,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="964" y="44" width="959" height="476" extended-state="0" />
+    <frame x="275" y="44" width="959" height="476" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
